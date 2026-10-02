@@ -1,0 +1,25 @@
+body{
+  background-color:  rgb(46, 42, 46);
+}
+
+#Bankai{
+  border-radius: 30px;
+  border-color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(211, 127, 18);
+  background-color: rgb(250, 243, 235);
+  padding-left: 20px;
+  width: 800px;
+  margin-right: auto;
+  
+  }
+#cart{
+  color: rgb(211, 127, 18);
+  position: absolute;
+  right:50px;
+  top: 30px;
+}
+#add{
+position: relative;
+left : 100px;
+}
